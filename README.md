@@ -24,8 +24,8 @@ Step 7. End
 ```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: KEERTHIKA A
-RegisterNumber:  212224220048
+Developed by: SANDHIYA M
+RegisterNumber:  212224220086
 */
 ```
 ```
